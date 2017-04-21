@@ -1,0 +1,1 @@
+// plik scripts.js
