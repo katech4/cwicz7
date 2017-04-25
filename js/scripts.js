@@ -2,8 +2,8 @@
 
 alert("Podaj dane !"); 
 	// deklaracja wprowadzenie zmiennych 
-	liczbaa = parseInt(prompt("Podaj liczbe a"));  
-	liczbah = parseInt(prompt("Podaj liczbe h")); 
+var	liczbaa = parseInt(prompt("Podaj liczbe a"));  
+var	liczbah = parseInt(prompt("Podaj liczbe h")); 
 
 // wyświetlenie zmiennych na ekranie 
 document.write("<p> Liczba a = " + liczbaa + " </p> <br>");  
